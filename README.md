@@ -13,4 +13,4 @@
 ## 抽象工厂
 提供一个创建一系列相关或相互依赖对象的接口，无须指定他们具体的类。
 
-![](https://github.com/zhuzhudan/factorypattern/blob/master/UML/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E7%B1%BB%E5%9B%BE.png)
+![](https://github.com/zhuzhudan/factorypattern/blob/master/UML/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E7%B1%BB%E5%9B%BE.png)
